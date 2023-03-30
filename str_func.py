@@ -1,3 +1,7 @@
-"""функция, которая принимает на вход строку и возвращает ее со всеми заглавными буквами"""
+"""функция"""
 def text(string):
     return string.upper()
+
+"""функция"""
+def text2(string):
+    return string.lower()
